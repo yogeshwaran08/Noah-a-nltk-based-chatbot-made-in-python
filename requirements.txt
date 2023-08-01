@@ -1,0 +1,8 @@
+bs4
+request
+urllib3
+geopy
+wikipedia
+pyjokes
+tensorflow
+numpy
