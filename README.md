@@ -8,3 +8,11 @@ $ python -m pip install -r requirements.txt
 $ python trainer.py
 $ python main.py
 ```
+
+**Sample output**
+Training
+![output1](https://github.com/yogeshwaran08/Noah-a-nltk-based-chatbot-made-in-python/assets/85753695/86f6a865-442b-4d34-909b-9615f40f7648)
+
+GUI output
+
+![output2](https://github.com/yogeshwaran08/Noah-a-nltk-based-chatbot-made-in-python/assets/85753695/26e7bc08-ccb4-47d4-973e-74762302d163)
